@@ -1,0 +1,6 @@
+Id Continente|Continente|Activo|Fecha Alta|Hora Alta|Fecha Modificación|Hora Modificación
+1|AFRICA|yes|04/05/05|34508|04/05/05|36326
+2|AMERICA|yes|04/05/05|36275|04/05/05|36352
+3|ASIA|yes|04/05/05|36365|04/05/05|36365
+4|EUROPA|yes|04/05/05|36369|04/05/05|36369
+5|OCEANIA|yes|04/05/05|36373|04/05/05|36373
